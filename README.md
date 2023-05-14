@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gonglk
 - 👀 I’m interested in Software engineering
-- 🌱 I’m currently learning Deep learning and ReactJS
+- 🌱 I’m currently learning Gen AI and Full Stack evelopment
 - 📫 How to reach me : gonglk0606@gmail.com
 
 <!---
